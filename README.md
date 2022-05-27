@@ -8,3 +8,7 @@ Packages & Technologies used in the repo:
 - `sass`
 - `react-router-dom`
 - `styled-components`
+
+### How set up
+1. install dependencies using comand `npm install`
+2. run the app using comand `npm start`
